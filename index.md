@@ -3,11 +3,10 @@
 ## Image Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Command Git Status
+### Command Git
 ```
 $ git status
 On branch main
-Your branch is up to date with 'main'
 ```
 
 ### Task List
