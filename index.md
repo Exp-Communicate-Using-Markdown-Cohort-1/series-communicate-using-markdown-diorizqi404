@@ -10,5 +10,9 @@ On branch main
 ```
 
 ### Task List
+- [x] Learn HTML
+- [x] Learn css
+
+
 - [ ] Learn PHP
 - [ ] Learn Flutter
