@@ -3,14 +3,9 @@
 ## Image Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Command Git
 ```
-$ git status
-On branch main
-```
-
-```
-$php = languange
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
 ### Task List
