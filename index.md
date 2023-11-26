@@ -8,7 +8,7 @@ $ npm start
 ```
 
 ### Task List
-- [x] Learn HTML
-- [x] Learn css
+- [ ] Learn HTML
+- [ ] Learn css
 - [ ] Learn PHP
 - [ ] Learn Flutter
