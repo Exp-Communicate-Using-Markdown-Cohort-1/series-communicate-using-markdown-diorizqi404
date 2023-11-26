@@ -7,8 +7,13 @@
 $ npm start
 ```
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ### Task List
-- [x] Learn HTML
-- [x] Learn css
+- [ ] Learn HTML
+- [ ] Learn css
 - [ ] Learn PHP
 - [ ] Learn Flutter
